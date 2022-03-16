@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guzzexe
-- 👀 I’m interested in ...
+- 👀 I’m interested in Pyhton, C, C++, C#, SQL, HTML, CSS and JavaSricpt
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: send an email to guz.cruz.07@gmail.com
 
